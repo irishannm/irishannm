@@ -1,53 +1,43 @@
-<!-- Banner -->
-![QA Analyst Banner](https://via.placeholder.com/1000x250/1a1a1a/ffffff?text=Quality+Assurance+Analyst+|+Manual+Testing+|+ISTQB+Certified)
-
-# Hi there, I'm Irish Ann 👋
+# Irish Ann Morales  
+💻 *"Passionate QA Tester ensuring bug-free user experiences"*
 
 ---
 
-## 🧑‍💻 About Me
-💡 **Quality Assurance Analyst** with 2 years of experience in **manual software testing**.  
-🔍 Passionate about finding defects early, ensuring high-quality releases, and improving user experience.  
-📈 Currently expanding my skills in **automation testing** to boost efficiency and coverage.
+## About Me  
+I am a dedicated **Manual QA Tester** with over 2 years of experience ensuring that software meets the highest quality standards before release.  
+I specialize in creating and executing detailed test cases, identifying defects, and collaborating with development teams to improve product quality.
 
 ---
 
-## 🛠 Tech Stack & Tools
-
-**Testing Types:**  
-![Manual Testing](https://img.shields.io/badge/-Manual%20Testing-blue) ![Functional Testing](https://img.shields.io/badge/-Functional%20Testing-green) ![Exploratory Testing](https://img.shields.io/badge/-Exploratory%20Testing-orange) ![UAT](https://img.shields.io/badge/-UAT-yellow)
-
-**QA Processes:**  
-![Defect Management](https://img.shields.io/badge/-Defect%20Management-red) ![Bug Reporting](https://img.shields.io/badge/-Bug%20Reporting-lightgrey) ![Agile/Scrum](https://img.shields.io/badge/-Agile%2FScrum-brightgreen)
-
-**Tools:**  
-![JIRA](https://img.shields.io/badge/-JIRA-0052CC?logo=jira&logoColor=white)  
-![TestRail](https://img.shields.io/badge/-TestRail-2E7D32) ![Testpad](https://img.shields.io/badge/-Testpad-00897B)  
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white)  
-![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white)  
+## Tech Stack & Tools  
+<div>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TestRail-00A859?style=for-the-badge&logo=telerik&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</div>
 
 ---
 
-## 📜 Courses & Certifications
-- 🎓 **ISTQB Certified Tester Foundation Level** – *July 2025*  
-- 🧪 **Fundamentals of Testing with TestRail** – *July 2025*  
+## Currently Learning  
+- API Testing using Postman  
+- Basic Automation with Playwright  
+- GitHub & CI/CD fundamentals  
 
 ---
 
-## 📚 Currently Learning
-- 🚀 Test Automation Fundamentals  
-- 🎯 **Playwright** for End-to-End Testing  
-- 🔗 API Testing with Postman (Intermediate Level)  
+## Courses & Certifications  
+- **ISTQB® Foundation Level v4.0** – In progress  
+- **Manual Testing Masterclass** – Udemy  
+- **Postman API Testing** – Udemy  
 
 ---
 
-## 📩 Contact Me
-📧 **Email:** [iamorales.main@gmail.com](mailto:iamorales.main@gmail.com)  
-📱 **Mobile:** +63 [Your Number Here]  
-🔗 **LinkedIn:** [Your LinkedIn Profile]  
-💻 **GitHub:** [Your GitHub Profile]  
-
----
-
-<!-- Footer Quote -->
-> *"Testing is not just finding bugs — it’s building confidence in the product."*
+## Contact Me  
+<p align="left">
+  <a href="mailto:your@email.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
+  <a href="tel:+639123456789"><img src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://facebook.com/yourprofile"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/></a>
+</p>  
