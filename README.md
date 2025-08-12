@@ -4,9 +4,9 @@
 ---
 
 ## About Me  
-Irish Ann here! I started my journey in **QA Testing** during my internship, where I was exposed to various **Agile practices** such as early feedback and the iterative approach to delivering sprints.  
+Irish Ann here! I started my journey in QA Testing during my internship, where I was exposed to various Agile practices such as early feedback and the iterative approach to delivering sprints.  
 I later realized that the role perfectly fits my characteristics as someone who adapts quickly and is proactive.  
-Eventually, I landed a job as a **Quality Assurance Analyst**, working on diverse projects ranging from **gaming sites** to **back-office systems**.
+Eventually, I landed a job as a Quality Assurance Analyst, working on diverse projects ranging from gaming sites to back-office systems.
 
 ---
 
