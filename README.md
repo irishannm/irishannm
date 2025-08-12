@@ -1,3 +1,5 @@
+![QA Tester Banner](https://via.placeholder.com/1200x300.png?text=Irish+Ann+Morales+-+QA+Tester)
+
 # Hello there!
 *"Testing is not just finding bugs — it’s building confidence in the product."*
 
@@ -38,8 +40,8 @@ Eventually, I landed a job as a Quality Assurance Analyst, working on diverse pr
 
 ## Contact Me  
 <p align="left">
-  <a href="mailto:your@email.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
-  <a href="tel:+639123456789"><img src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone"/></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://facebook.com/yourprofile"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/></a>
+  <a href="mailto:iamorales.main@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
+  <a href="tel:+639296446703"><img src="https://img.icons8.com/fluency/48/000000/phone.png" alt="Phone"/></a>
+  <a href="https://www.linkedin.com/in/iannm/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.facebook.com/irshannnn"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/></a>
 </p>  
