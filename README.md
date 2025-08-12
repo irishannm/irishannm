@@ -41,7 +41,6 @@ Eventually, I landed a job as a Quality Assurance Analyst, working on diverse pr
 ## Contact Me  
 <p align="left">
   <a href="mailto:iamorales.main@gmail.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png" alt="Gmail"/></a>
-  <a href="tel:+639123456789"><img src="https://img.shields.io/badge/Phone-+63%20912%20345%206789-blue?style=for-the-badge&logo=phone&logoColor=white&labelColor=101010&color=0077B5&shape=circle" /></a>
   <a href="https://www.linkedin.com/in/iannm/"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://www.facebook.com/irshannnn"><img src="https://img.icons8.com/fluency/48/000000/facebook-new.png" alt="Facebook"/></a>
 </p>  
