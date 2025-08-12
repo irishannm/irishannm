@@ -15,7 +15,6 @@ Eventually, I landed a job as a Quality Assurance Analyst, working on diverse pr
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
   <img src="https://img.shields.io/badge/TestRail-00A859?style=for-the-badge&logo=telerik&logoColor=white"/>
   <img src="https://img.shields.io/badge/TestPad-4CAF50?style=for-the-badge&logo=checkmarx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TestRail-00A859?style=for-the-badge&logo=telerik&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
