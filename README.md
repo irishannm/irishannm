@@ -4,8 +4,9 @@
 ---
 
 ## About Me  
-I am a dedicated **Manual QA Tester** with over 2 years of experience ensuring that software meets the highest quality standards before release.  
-I specialize in creating and executing detailed test cases, identifying defects, and collaborating with development teams to improve product quality.
+Irish Ann here! I started my journey in **QA Testing** during my internship, where I was exposed to various **Agile practices** such as early feedback and the iterative approach to delivering sprints.  
+I later realized that the role perfectly fits my characteristics as someone who adapts quickly and is proactive.  
+Eventually, I landed a job as a **Quality Assurance Analyst**, working on diverse projects ranging from **gaming sites** to **back-office systems**.
 
 ---
 
