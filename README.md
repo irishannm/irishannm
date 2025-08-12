@@ -1,4 +1,4 @@
-# Hi I am Irish Ann
+# Hello there!
 *"Testing is not just finding bugs — it’s building confidence in the product."*
 
 ---
