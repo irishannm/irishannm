@@ -1,4 +1,6 @@
-![QA Tester Banner](https://via.placeholder.com/1200x300.png?text=Irish+Ann+Morales+-+QA+Tester)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/username/repo/main/assets/banner.png" alt="QA Tester Banner" width="100%" />
+</p>
 
 # Hello there!
 *"Testing is not just finding bugs — it’s building confidence in the product."*
