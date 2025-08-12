@@ -1,5 +1,5 @@
 # Irish Ann Morales  
-💻 *"Passionate QA Tester ensuring bug-free user experiences"*
+*"Testing is not just finding bugs — it’s building confidence in the product."*
 
 ---
 
