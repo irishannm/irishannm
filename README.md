@@ -35,6 +35,7 @@ Eventually, I landed a job as a Quality Assurance Analyst, working on diverse pr
 ## Courses & Certifications  
 - **ISTQB® Foundation Level v4.0**   
 - **Fundamentals of Testing with TestRail**
+- **Postman API Fundamentals Student Expert**
 
 ---
 
