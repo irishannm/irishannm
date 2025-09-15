@@ -39,8 +39,9 @@ Eventually, I landed a job as a Quality Assurance Analyst, working on diverse pr
 
 ---
 ## Examples of My Work
-- Basic Playwright (On-going): https://github.com/irishannm/Playwright-Basics
-- Basic Postman API: https://github.com/irishannm/Postman-API-Exercise
+- Playwright (On-going): https://github.com/irishannm/Playwright-Basics
+- Postman API: https://github.com/irishannm/Postman-API-Exercise
+- Test Case Creation: 
 
 ## Contact Me  
 <p align="left">
